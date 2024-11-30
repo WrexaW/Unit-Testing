@@ -1,8 +1,9 @@
-﻿using Unit_Testing;
+﻿using Unit_Testing.Entites;
+using Unit_Testing.Service;
 
 namespace TestProject1
 {
-    
+
     public class Tests
     {
         private UserService userService;

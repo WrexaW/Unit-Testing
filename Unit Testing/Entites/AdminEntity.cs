@@ -1,4 +1,4 @@
-﻿namespace Unit_Testing
+﻿namespace Unit_Testing.Entites
 {
     public class AdminEntity
     {
